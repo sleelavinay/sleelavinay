@@ -1,37 +1,56 @@
-Hi, I'm Leela Vinay Sammeta 👋
+👋 Hi, I'm Leela Vinay Sammeta
 
 🎓 B.Tech CSE Student | Aspiring Game Developer | AI Enthusiast
 
-I'm a Computer Science and Engineering student interested in software development, data analysis, game development, and artificial intelligence. I enjoy learning by building projects and improving my programming skills.
+I'm a Computer Science and Engineering student interested in programming, game development, artificial intelligence, and data analysis.
+
+I enjoy learning through hands-on projects and exploring technologies that can help me build interactive and intelligent gaming experiences.
+
+🎯 My Goal: To become a game developer and integrate AI into games.
 
 🚀 Featured Projects
 
 🎮 Neon Snake Game
 
-A neon-themed arcade game built using HTML, CSS, and JavaScript.
+A browser-based arcade game built using HTML, CSS, and JavaScript.
 
-- Interactive gameplay and keyboard controls
-- Browser-based game with a live demo
+- Neon-inspired visual design
+- Keyboard and mobile controls
+- Score tracking and saved best score
+- Pause and resume functionality
+- Restart and replay options
 
-🔗 "Play the Game" (https://sleelavinay.github.io/neon-snake-game/) · "View Source Code" (https://github.com/sleelavinay/neon-snake-game)
+🔗 "Play Live Demo" (https://sleelavinay.github.io/neon-snake-game/)
+
+💻 "View Source Code" (https://github.com/sleelavinay/neon-snake-game)
 
 📊 Student Performance Analysis
 
-An exploratory data analysis project using Python and data visualization libraries.
+An exploratory data analysis project using Python and data analysis libraries.
 
-- Data cleaning and quality checks
-- Statistical summaries and student performance analysis
-- Visualizations and correlation analysis
+- Dataset inspection and missing-value checks
+- Statistical summaries
+- Correlation analysis
+- Data visualization using a heatmap
 
-🔗 "View Project" (https://github.com/sleelavinay/student-performance-analysis)
+💻 "View Project" (https://github.com/sleelavinay/student-performance-analysis)
 
 🛠️ Technical Skills
 
-- Programming: C, Java, Python, SQL
-- Web Development: HTML, CSS
+- Programming Languages: C, Java, Python, SQL
+- Web Technologies: HTML, CSS
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
 - Tools: Git, GitHub, VS Code, Google Colab
-- Game Development: Exploring Unity
+- Game Development: Unity
+
+🏅 Certifications & Training
+
+- Cloud Game Development Virtual Internship — AICTE–EduSkills
+- Cloud Game Development Knowledge Badge Assessment
+- AWS for Games: Cloud Game Development — Knowledge Badge Readiness Path
+- Game Server Hosting on AWS
+- AWS for Games — Databases
+- Amazon Aurora MySQL and Amazon RDS MySQL
 
 📚 Currently Learning
 
@@ -40,16 +59,18 @@ An exploratory data analysis project using Python and data visualization librari
 - Exploratory Data Analysis
 - Game development and AI integration
 
-🎯 My Goal
+📊 GitHub Statistics
 
-To become a game developer and create engaging games enhanced by artificial intelligence.
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sleelavinay&show_icons=true&theme=tokyonight&hide_border=true)
 
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sleelavinay&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Statistics
+🌱 My Approach
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleelavinay&show_icons=true&theme=tokyonight&hide_border=true)
+I believe in learning by building, improving through practice, and developing a strong foundation in computer science.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleelavinay&layout=compact&theme=tokyonight&hide_border=true)
+I'm working toward combining my programming knowledge, game development interests, and AI skills to create meaningful projects.
+
 ---
 
 ⭐ Learning, building, and improving one project at a time.
