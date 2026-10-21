@@ -45,11 +45,11 @@ An exploratory data analysis project using Python and data visualization librari
 To become a game developer and create engaging games enhanced by artificial intelligence.
 
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sleelavinay&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleelavinay&show_icons=true&theme=tokyonight&hide_border=true)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sleelavinay&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleelavinay&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ⭐ Learning, building, and improving one project at a time.
