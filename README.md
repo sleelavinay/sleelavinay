@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi, I'm Leela Vinay Sammeta
 
-<!--
-**sleelavinay/sleelavinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | Aspiring Game Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a CSE student exploring programming, software development, game development, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering
+- 💻 Learning to write clean, effective code
+- 🎮 Interested in game development using Unity
+- 🤖 Exploring AI applications in games
+- 🌱 Improving my programming skills one project at a time
+
+🛠️ Tech Stack
+
+Languages: C · Java · Python · SQL
+
+Web: HTML · CSS
+
+Tools: Git · GitHub · VS Code · Unity
+
+📚 Current Focus
+
+- Programming fundamentals
+- Data Structures and Algorithms
+- Building practical coding projects
+- Exploring game development and AI
+
+🎯 My Goal
+
+To become a game developer and build engaging games enhanced by artificial intelligence.
+
+---
+
+⭐ Thanks for visiting my profile!
