@@ -59,11 +59,12 @@ An exploratory data analysis project using Python and data analysis libraries.
 - Exploratory Data Analysis
 - Game development and AI integration
 
-📊 GitHub Statistics
+📈 GitHub Activity
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sleelavinay&show_icons=true&theme=tokyonight&hide_border=true)
+My public repositories showcase my ongoing learning, programming practice, and project development.
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sleelavinay&layout=compact&theme=tokyonight&hide_border=true)
+- "Explore My Repositories" (https://github.com/sleelavinay?tab=repositories)
+- "View My Contributions" (https://github.com/sleelavinay?tab=overview&from=2026-01-01&to=2026-12-31)
 
 🌱 My Approach
 
