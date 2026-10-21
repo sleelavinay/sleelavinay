@@ -1,36 +1,49 @@
-👋 Hi, I'm Leela Vinay Sammeta
+Hi, I'm Leela Vinay Sammeta 👋
 
-🎓 Computer Science Engineering Student | Aspiring Game Developer
+🎓 B.Tech CSE Student | Aspiring Game Developer | AI Enthusiast
 
-Welcome to my GitHub profile! I'm a CSE student exploring programming, software development, game development, and artificial intelligence.
+I'm a Computer Science and Engineering student interested in software development, data analysis, game development, and artificial intelligence. I enjoy learning by building projects and improving my programming skills.
 
-🚀 About Me
+🚀 Featured Projects
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering
-- 💻 Learning to write clean, effective code
-- 🎮 Interested in game development using Unity
-- 🤖 Exploring AI applications in games
-- 🌱 Improving my programming skills one project at a time
+🎮 Neon Snake Game
 
-🛠️ Tech Stack
+A neon-themed arcade game built using HTML, CSS, and JavaScript.
 
-Languages: C · Java · Python · SQL
+- Interactive gameplay and keyboard controls
+- Browser-based game with a live demo
 
-Web: HTML · CSS
+🔗 "Play the Game" (https://sleelavinay.github.io/neon-snake-game/) · "View Source Code" (https://github.com/sleelavinay/neon-snake-game)
 
-Tools: Git · GitHub · VS Code · Unity
+📊 Student Performance Analysis
 
-📚 Current Focus
+An exploratory data analysis project using Python and data visualization libraries.
 
-- Programming fundamentals
+- Data cleaning and quality checks
+- Statistical summaries and student performance analysis
+- Visualizations and correlation analysis
+
+🔗 "View Project" (https://github.com/sleelavinay/student-performance-analysis)
+
+🛠️ Technical Skills
+
+- Programming: C, Java, Python, SQL
+- Web Development: HTML, CSS
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Tools: Git, GitHub, VS Code, Google Colab
+- Game Development: Exploring Unity
+
+📚 Currently Learning
+
 - Data Structures and Algorithms
-- Building practical coding projects
-- Exploring game development and AI
+- Software development fundamentals
+- Exploratory Data Analysis
+- Game development and AI integration
 
 🎯 My Goal
 
-To become a game developer and build engaging games enhanced by artificial intelligence.
+To become a game developer and create engaging games enhanced by artificial intelligence.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Learning, building, and improving one project at a time.
